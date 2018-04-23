@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "Apple - iPad",
+    "picture": "images/tech/ipad.jpg",
+    "price": 0.54612
+  },
+  {
+    "id": 1,
+    "name": "Dell",
+    "picture": "images/tech/dell.jpg",
+    "price": 0.66236
+  },
+  {
+    "id": 2,
+    "name": "HP",
+    "picture": "images/tech/hp.jpg",
+    "price": 0.49618
+  },
+  {
+    "id": 3,
+    "name": "HP - Tablet",
+    "picture": "images/tech/hp-tablet.jpg",
+    "price": 0.16547
+  },
+  {
+    "id": 4,
+    "name": "Lenovo",
+    "picture": "images/tech/lenovo.jpg",
+    "price": 0.38077
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "name": "1984",
+    "picture": "images/books/1984.jpg",
+    "price": 0.008284
+  },
+  {
+    "id": 1,
+    "name": "Animal Farm",
+    "picture": "images/books/animal_farm.jpg",
+    "price": 0.008284
+  },
+  {
+    "id": 2,
+    "name": "Death of a Salesman",
+    "picture": "images/books/death_of_a_salesman.jpg",
+    "price": 0.008284
+  },
+  {
+    "id": 3,
+    "name": "East of Eden",
+    "picture": "images/books/east_of_eden.jpg",
+    "price": 0.008284
+  },
+  {
+    "id": 4,
+    "name": "Fahrenheit 451",
+    "picture": "images/books/fahrenheit_451.jpg",
+    "price": 0.008284
+  },
+  {
+    "id": 5,
+    "name": "Lord of the Flies",
+    "picture": "images/books/lord_of_the_flies.jpg",
+    "price": 0.008284
+  },
+  {
+    "id": 6,
+    "name": "Romeo and Juliet",
+    "picture": "images/books/romeo_and_juliet.jpg",
+    "price": 0.008284
+  },
+  {
+    "id": 7,
+    "name": "The Catcher in the Rye",
+    "picture": "images/books/the_catcher_in_the_rye.jpg",
+    "price": 0.008284
+  },
+  {
+    "id": 8,
+    "name": "The Great Gatsby",
+    "picture": "images/books/the_great_gatsby.jpg",
+    "price": 0.008284
+  },
+  {
+    "id": 9,
+    "name": "To Kill a Mockingbird",
+    "picture": "images/books/to_kill_a_mockingbird.jpg",
+    "price": 0.008284
+  }
+]

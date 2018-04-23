@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "name": "Birth Control Pills",
+    "picture": "images/birthcontrol/birth_control_pills.jpg",
+    "price": 0.008284
+  },
+  {
+    "id": 1,
+    "name": "Condoms",
+    "picture": "images/birthcontrol/condoms.jpeg",
+    "price": 0.008284
+  }
+]

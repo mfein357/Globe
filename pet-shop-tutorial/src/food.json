@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "name": "Apples",
+    "picture": "images/food/apples.jpg",
+    "price": 0.16383
+  },
+  {
+    "id": 1,
+    "name": "Avocados",
+    "picture": "images/food/avocados.jpg",
+    "price": 0.008267
+  },
+  {
+    "id": 2,
+    "name": "Bananas",
+    "picture": "images/food/bananas.jpg",
+    "price": 0.001146
+  },
+  {
+    "id": 3,
+    "name": "Beans",
+    "picture": "images/food/beans.jpg",
+    "price": 0.002314
+  },
+  {
+    "id": 4,
+    "name": "Eggs",
+    "picture": "images/food/eggs.jpg",
+    "price": 0.004983
+  },
+  {
+    "id": 5,
+    "name": "Fish",
+    "picture": "images/food/fish.jpg",
+    "price": 0.036585
+  },
+  {
+    "id": 6,
+    "name": "Spinach",
+    "picture": "images/food/spinach.jpg",
+    "price": 0.004960
+  },
+  {
+    "id": 7,
+    "name": "Water",
+    "picture": "images/food/water.jpg",
+    "price": 0.007448
+  },
+  {
+    "id": 8,
+    "name": "Yogurt",
+    "picture": "images/food/yogurt.jpg",
+    "price": 0.001476
+  },
+  {
+    "id": 9,
+    "name": "Bread",
+    "picture": "images/food/bread.jpg",
+    "price": 0.008270
+  }
+]
